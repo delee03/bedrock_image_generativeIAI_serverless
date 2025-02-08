@@ -1,6 +1,6 @@
 +++
-title = "Tạo mới tài khoản AWS"
-date = 2020-05-14T00:38:32+07:00
+title = "Model Access và yêu cầu cần thiết"
+date = 2025
 weight = 2
 chapter = false
 pre = "<b>1. </b>"

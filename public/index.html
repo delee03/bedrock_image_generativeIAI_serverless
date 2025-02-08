@@ -12,21 +12,21 @@
     <title>AI/ML :: Bedrock: An Image Generative AI Serverless with Stable Diffusion</title>
 
     
-    <link href="/css/nucleus.css?1739018147" rel="stylesheet">
-    <link href="/css/fontawesome-all.min.css?1739018147" rel="stylesheet">
-    <link href="/css/hybrid.css?1739018147" rel="stylesheet">
-    <link href="/css/featherlight.min.css?1739018147" rel="stylesheet">
-    <link href="/css/perfect-scrollbar.min.css?1739018147" rel="stylesheet">
-    <link href="/css/auto-complete.css?1739018147" rel="stylesheet">
-    <link href="/css/atom-one-dark-reasonable.css?1739018147" rel="stylesheet">
-    <link href="/css/theme.css?1739018147" rel="stylesheet">
-    <link href="/css/hugo-theme.css?1739018147" rel="stylesheet">
+    <link href="/css/nucleus.css?1739018980" rel="stylesheet">
+    <link href="/css/fontawesome-all.min.css?1739018980" rel="stylesheet">
+    <link href="/css/hybrid.css?1739018980" rel="stylesheet">
+    <link href="/css/featherlight.min.css?1739018980" rel="stylesheet">
+    <link href="/css/perfect-scrollbar.min.css?1739018980" rel="stylesheet">
+    <link href="/css/auto-complete.css?1739018980" rel="stylesheet">
+    <link href="/css/atom-one-dark-reasonable.css?1739018980" rel="stylesheet">
+    <link href="/css/theme.css?1739018980" rel="stylesheet">
+    <link href="/css/hugo-theme.css?1739018980" rel="stylesheet">
     
-    <link href="/css/theme-workshop.css?1739018147" rel="stylesheet">
+    <link href="/css/theme-workshop.css?1739018980" rel="stylesheet">
     
     
 
-    <script src="/js/jquery-3.3.1.min.js?1739018147"></script>
+    <script src="/js/jquery-3.3.1.min.js?1739018980"></script>
 
     <style>
       :root #header + #content > #left > #rlblock_left{
@@ -57,14 +57,14 @@
     <span data-search-clear=""><i class="fas fa-times"></i></span>
 </div>
 
-<script type="text/javascript" src="/js/lunr.min.js?1739018147"></script>
-<script type="text/javascript" src="/js/auto-complete.js?1739018147"></script>
+<script type="text/javascript" src="/js/lunr.min.js?1739018980"></script>
+<script type="text/javascript" src="/js/auto-complete.js?1739018980"></script>
 <script type="text/javascript">
     
         var baseurl = "\/\/localhost:1313\/";
     
 </script>
-<script type="text/javascript" src="/js/search.js?1739018147"></script>
+<script type="text/javascript" src="/js/search.js?1739018980"></script>
 
     
   </div>
@@ -82,13 +82,13 @@
  
   
     
-    <li data-nav-id="/1-model-access_prerequites/" title="Creating a new AWS account" class="dd-item 
+    <li data-nav-id="/1-model-access_prerequites/" title="Model access &amp; prerequites" class="dd-item 
         
         
         
         ">
       <a href="/1-model-access_prerequites/">
-          <b>1. </b>Creating a new AWS account
+          <b>1. </b>Model access &amp; prerequites
           
             <i class="fas fa-check read-icon"></i>
           
@@ -712,12 +712,13 @@
 </span>
 
  
-<h1 id="creating-your-first-aws-account">Creating your first AWS account</h1>
+<h1 id="bedrock-series-image-generation-with-stability-ai">Bedrock Series: Image Generation With Stability AI</h1>
 <h4 id="overview">Overview</h4>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>A futuristic sci-fi movie scene, a massive spaceship hovering over a neon-lit cyberpunk city, rain falling, glowing lights reflecting on wet streets, people in high-tech outfits walking below, cinematic composition, ultra-detailed, 8k, vibrant colors, Blade Runner style
 </span></span></code></pre></div><p>In this first lab, you will be creating your new <strong>AWS</strong> account and use Multi-factor Authentication (<strong>MFA</strong>) to improve your account security. Next, you will create an <strong>Administrator Group</strong> and <strong>Admin User</strong> to manage access to resources in your account instead of using the root user. <br>
 Finally, we will step through account authentication with <strong>AWS Support</strong> in the event you experience authentication problems.</p>
-<h4 id="aws-account">AWS Account</h4>
+<h4 id="aws-architecture">AWS Architecture</h4>
+<p><img alt="Image" src="/images/capture_ws2/ArchitectureImage.png?width=90pc"></p>
 <p><strong>An AWS account</strong> is the basic container for all the AWS resources you can create as an AWS customer. By default, each AWS account will have a <em>root user</em>. The <em>root user</em> has full access within your AWS account, and root user permissions cannot be limited. When you first create your AWS account, you will be assessing it as the <em>root user</em>.</p>
 
 <div class="notices note" ><p>As a best practice, do not use the AWS account <em>root user</em> for any task where it&rsquo;s not required. Instead, create a new IAM user for each person that requires administrator access. Thereafter, the users in the administrators user group should set up the user groups, users, and so on, for the AWS account. All future interaction should be through the AWS account&rsquo;s users and their own keys instead of the root user. However, to perform some account and service management tasks, you must log in using the root user credentials.</p>
@@ -1062,7 +1063,7 @@ Please note that an IAM user with administrator permissions is not the same thin
 	 
 		
 		
-			<a class="nav nav-next" href="/1-model-access_prerequites/" title="Creating a new AWS account" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
+			<a class="nav nav-next" href="/1-model-access_prerequites/" title="Model access &amp; prerequites" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
 		
 	
     </div>
@@ -1072,19 +1073,19 @@ Please note that an IAM user with administrator permissions is not the same thin
     <div style="left: -1000px; overflow: scroll; position: absolute; top: -1000px; border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;">
       <div style="border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;"></div>
     </div>
-    <script src="/js/clipboard.min.js?1739018147"></script>
-    <script src="/js/perfect-scrollbar.min.js?1739018147"></script>
-    <script src="/js/perfect-scrollbar.jquery.min.js?1739018147"></script>
-    <script src="/js/jquery.sticky.js?1739018147"></script>
-    <script src="/js/featherlight.min.js?1739018147"></script>
-    <script src="/js/highlight.pack.js?1739018147"></script>
+    <script src="/js/clipboard.min.js?1739018980"></script>
+    <script src="/js/perfect-scrollbar.min.js?1739018980"></script>
+    <script src="/js/perfect-scrollbar.jquery.min.js?1739018980"></script>
+    <script src="/js/jquery.sticky.js?1739018980"></script>
+    <script src="/js/featherlight.min.js?1739018980"></script>
+    <script src="/js/highlight.pack.js?1739018980"></script>
     <script>hljs.initHighlightingOnLoad();</script>
-    <script src="/js/modernizr.custom-3.6.0.js?1739018147"></script>
-    <script src="/js/learn.js?1739018147"></script>
-    <script src="/js/hugo-learn.js?1739018147"></script>
+    <script src="/js/modernizr.custom-3.6.0.js?1739018980"></script>
+    <script src="/js/learn.js?1739018980"></script>
+    <script src="/js/hugo-learn.js?1739018980"></script>
 
-    <link href="/mermaid/mermaid.css?1739018147" rel="stylesheet" />
-    <script src="/mermaid/mermaid.js?1739018147"></script>
+    <link href="/mermaid/mermaid.css?1739018980" rel="stylesheet" />
+    <script src="/mermaid/mermaid.js?1739018980"></script>
     <script>
         mermaid.initialize({ startOnLoad: true });
     </script>

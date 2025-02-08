@@ -5,7 +5,7 @@ weight = 1
 chapter = false
 +++
 
-# Creating your first AWS account
+# Bedrock Series: Image Generation With Stability AI
 
 #### Overview
 
@@ -16,7 +16,9 @@ A futuristic sci-fi movie scene, a massive spaceship hovering over a neon-lit cy
 In this first lab, you will be creating your new **AWS** account and use Multi-factor Authentication (**MFA**) to improve your account security. Next, you will create an **Administrator Group** and **Admin User** to manage access to resources in your account instead of using the root user. \
 Finally, we will step through account authentication with **AWS Support** in the event you experience authentication problems.
 
-#### AWS Account
+#### AWS Architecture
+
+![Image](/images/capture_ws2/ArchitectureImage.png?width=90pc)
 
 **An AWS account** is the basic container for all the AWS resources you can create as an AWS customer. By default, each AWS account will have a _root user_. The _root user_ has full access within your AWS account, and root user permissions cannot be limited. When you first create your AWS account, you will be assessing it as the _root user_.
 
