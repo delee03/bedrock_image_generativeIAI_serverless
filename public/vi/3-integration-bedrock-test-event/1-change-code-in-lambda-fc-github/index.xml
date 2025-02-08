@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coding cho hàm Lambda on Bedrock: An Image Generative AI Serverless with Stable Diffusion</title>
+    <link>//localhost:1313/vi/3-integration-bedrock-test-event/1-change-code-in-lambda-fc-github/</link>
+    <description>Recent content in Coding cho hàm Lambda on Bedrock: An Image Generative AI Serverless with Stable Diffusion</description>
+    <generator>Hugo</generator>
+    <language>vi</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="//localhost:1313/vi/3-integration-bedrock-test-event/1-change-code-in-lambda-fc-github/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/1-create-new-aws-account/</loc>
+    <loc>//localhost:1313/1-model-access_prerequites/</loc>
     <lastmod>2020-05-14T00:38:32+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/1-create-new-aws-account/"
+                href="//localhost:1313/vi/1-model-access_prerequites/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/1-create-new-aws-account/"
+                href="//localhost:1313/1-model-access_prerequites/"
                 />
   </url><url>
     <loc>//localhost:1313/</loc>
-    <lastmod>1970-01-01T07:33:41+07:00</lastmod>
+    <lastmod>1970-01-01T07:33:45+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -28,82 +28,212 @@
                 href="//localhost:1313/"
                 />
   </url><url>
-    <loc>//localhost:1313/2-mfa-setup-for-aws-user-root/1-virtual-mfa-device/</loc>
+    <loc>//localhost:1313/3-integration-bedrock-test-event/1-change-code-in-lambda-fc-github/</loc>
+    <lastmod>1970-01-01T07:33:45+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="//localhost:1313/vi/3-integration-bedrock-test-event/1-change-code-in-lambda-fc-github/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/3-integration-bedrock-test-event/1-change-code-in-lambda-fc-github/"
+                />
+  </url><url>
+    <loc>//localhost:1313/5-test-image-generation-on-postman/1-coppy-url-in-stage/</loc>
     <lastmod>1970-01-01T07:33:41+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/2-mfa-setup-for-aws-user-root/1-virtual-mfa-device/"
+                href="//localhost:1313/vi/5-test-image-generation-on-postman/1-coppy-url-in-stage/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/2-mfa-setup-for-aws-user-root/1-virtual-mfa-device/"
+                href="//localhost:1313/5-test-image-generation-on-postman/1-coppy-url-in-stage/"
                 />
   </url><url>
-    <loc>//localhost:1313/2-mfa-setup-for-aws-user-root/</loc>
+    <loc>//localhost:1313/4-map-lambda-with-apigateway/1-create-rest-api/</loc>
     <lastmod>1970-01-01T07:33:41+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/2-mfa-setup-for-aws-user-root/"
+                href="//localhost:1313/vi/4-map-lambda-with-apigateway/1-create-rest-api/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/2-mfa-setup-for-aws-user-root/"
+                href="//localhost:1313/4-map-lambda-with-apigateway/1-create-rest-api/"
                 />
   </url><url>
-    <loc>//localhost:1313/2-mfa-setup-for-aws-user-root/2-u2f-security-key/</loc>
+    <loc>//localhost:1313/2-creation-s3-bucket_configurelambda/1-create-s3-bucket/</loc>
     <lastmod>1970-01-01T07:33:41+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/2-mfa-setup-for-aws-user-root/2-u2f-security-key/"
+                href="//localhost:1313/vi/2-creation-s3-bucket_configurelambda/1-create-s3-bucket/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/2-mfa-setup-for-aws-user-root/2-u2f-security-key/"
+                href="//localhost:1313/2-creation-s3-bucket_configurelambda/1-create-s3-bucket/"
                 />
   </url><url>
-    <loc>//localhost:1313/3-create-admin-user-and-group/</loc>
+    <loc>//localhost:1313/5-test-image-generation-on-postman/2-test-image-api-on-postman/</loc>
+    <lastmod>1970-01-01T07:33:45+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="//localhost:1313/vi/5-test-image-generation-on-postman/2-test-image-api-on-postman/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/5-test-image-generation-on-postman/2-test-image-api-on-postman/"
+                />
+  </url><url>
+    <loc>//localhost:1313/2-creation-s3-bucket_configurelambda/2-configure-lambda-function/</loc>
+    <lastmod>1970-01-01T07:33:45+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="//localhost:1313/vi/2-creation-s3-bucket_configurelambda/2-configure-lambda-function/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/2-creation-s3-bucket_configurelambda/2-configure-lambda-function/"
+                />
+  </url><url>
+    <loc>//localhost:1313/4-map-lambda-with-apigateway/2-create-resources-medthod-request/</loc>
+    <lastmod>1970-01-01T07:33:45+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="//localhost:1313/vi/4-map-lambda-with-apigateway/2-create-resources-medthod-request/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/4-map-lambda-with-apigateway/2-create-resources-medthod-request/"
+                />
+  </url><url>
+    <loc>//localhost:1313/3-integration-bedrock-test-event/2-test-image-generated-on-lambda/</loc>
+    <lastmod>1970-01-01T07:33:45+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="//localhost:1313/vi/3-integration-bedrock-test-event/2-test-image-generated-on-lambda/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/3-integration-bedrock-test-event/2-test-image-generated-on-lambda/"
+                />
+  </url><url>
+    <loc>//localhost:1313/2-creation-s3-bucket_configurelambda/</loc>
+    <lastmod>1970-01-01T07:33:45+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="//localhost:1313/vi/2-creation-s3-bucket_configurelambda/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/2-creation-s3-bucket_configurelambda/"
+                />
+  </url><url>
+    <loc>//localhost:1313/4-map-lambda-with-apigateway/3-add-mapping-request-integration/</loc>
     <lastmod>1970-01-01T07:33:41+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/3-create-admin-user-and-group/"
+                href="//localhost:1313/vi/4-map-lambda-with-apigateway/3-add-mapping-request-integration/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/3-create-admin-user-and-group/"
+                href="//localhost:1313/4-map-lambda-with-apigateway/3-add-mapping-request-integration/"
                 />
   </url><url>
-    <loc>//localhost:1313/2-mfa-setup-for-aws-user-root/3-other-hardware-mfa-device/</loc>
+    <loc>//localhost:1313/2-creation-s3-bucket_configurelambda/3-attach-permission-lambda/</loc>
     <lastmod>1970-01-01T07:33:41+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/2-mfa-setup-for-aws-user-root/3-other-hardware-mfa-device/"
+                href="//localhost:1313/vi/2-creation-s3-bucket_configurelambda/3-attach-permission-lambda/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/2-mfa-setup-for-aws-user-root/3-other-hardware-mfa-device/"
+                href="//localhost:1313/2-creation-s3-bucket_configurelambda/3-attach-permission-lambda/"
                 />
   </url><url>
-    <loc>//localhost:1313/4-verify-new-account/</loc>
-    <lastmod>1970-01-01T07:33:40+07:00</lastmod>
+    <loc>//localhost:1313/3-integration-bedrock-test-event/</loc>
+    <lastmod>1970-01-01T07:33:45+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/4-verify-new-account/"
+                href="//localhost:1313/vi/3-integration-bedrock-test-event/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/4-verify-new-account/"
+                href="//localhost:1313/3-integration-bedrock-test-event/"
+                />
+  </url><url>
+    <loc>//localhost:1313/2-creation-s3-bucket_configurelambda/4.setting-lambda-timeout/</loc>
+    <lastmod>1970-01-01T07:33:45+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="//localhost:1313/vi/2-creation-s3-bucket_configurelambda/4.setting-lambda-timeout/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/2-creation-s3-bucket_configurelambda/4.setting-lambda-timeout/"
+                />
+  </url><url>
+    <loc>//localhost:1313/4-map-lambda-with-apigateway/</loc>
+    <lastmod>1970-01-01T07:33:45+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="//localhost:1313/vi/4-map-lambda-with-apigateway/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/4-map-lambda-with-apigateway/"
+                />
+  </url><url>
+    <loc>//localhost:1313/5-test-image-generation-on-postman/</loc>
+    <lastmod>1970-01-01T07:33:45+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="//localhost:1313/vi/5-test-image-generation-on-postman/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/5-test-image-generation-on-postman/"
+                />
+  </url><url>
+    <loc>//localhost:1313/6-clean-up-resources/</loc>
+    <lastmod>1970-01-01T07:33:45+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="//localhost:1313/vi/6-clean-up-resources/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/6-clean-up-resources/"
                 />
   </url><url>
     <loc>//localhost:1313/categories/</loc>
