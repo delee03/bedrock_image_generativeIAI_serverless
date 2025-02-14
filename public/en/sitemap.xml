@@ -2,19 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/1-model-access_prerequites/</loc>
-    <lastmod>2020-05-14T00:38:32+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="//localhost:1313/vi/1-model-access_prerequites/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/1-model-access_prerequites/"
-                />
-  </url><url>
     <loc>//localhost:1313/</loc>
     <lastmod>1970-01-01T07:33:45+07:00</lastmod>
     <xhtml:link
@@ -117,6 +104,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="//localhost:1313/4-map-lambda-with-apigateway/2-create-resources-medthod-request/"
+                />
+  </url><url>
+    <loc>//localhost:1313/1-model-access_prerequites/</loc>
+    <lastmod>1970-01-01T07:33:45+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="//localhost:1313/vi/1-model-access_prerequites/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/1-model-access_prerequites/"
                 />
   </url><url>
     <loc>//localhost:1313/3-integration-bedrock-test-event/2-test-image-generated-on-lambda/</loc>

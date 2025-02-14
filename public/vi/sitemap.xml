@@ -67,19 +67,6 @@
                 href="//localhost:1313/vi/2-creation-s3-bucket_configurelambda/1-create-s3-bucket/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/1-model-access_prerequites/</loc>
-    <lastmod>2020-05-14T00:38:32+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/1-model-access_prerequites/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="//localhost:1313/vi/1-model-access_prerequites/"
-                />
-  </url><url>
     <loc>//localhost:1313/vi/5-test-image-generation-on-postman/2-test-image-api-on-postman/</loc>
     <lastmod>1970-01-01T07:33:45+07:00</lastmod>
     <xhtml:link
@@ -91,6 +78,19 @@
                 rel="alternate"
                 hreflang="vi"
                 href="//localhost:1313/vi/5-test-image-generation-on-postman/2-test-image-api-on-postman/"
+                />
+  </url><url>
+    <loc>//localhost:1313/vi/1-model-access_prerequites/</loc>
+    <lastmod>1970-01-01T07:33:45+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/1-model-access_prerequites/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="//localhost:1313/vi/1-model-access_prerequites/"
                 />
   </url><url>
     <loc>//localhost:1313/vi/4-map-lambda-with-apigateway/2-create-resources-medthod-request/</loc>

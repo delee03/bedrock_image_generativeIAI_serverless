@@ -1,5 +1,5 @@
 +++
-title = "Map Lambda With APIGateway"
+title = "Test Image Generation on Postman"
 date = 2025
 weight = 6
 chapter = false

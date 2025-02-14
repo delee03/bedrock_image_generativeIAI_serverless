@@ -1,5 +1,5 @@
 +++
-title = "Kết nối Lambda với API Gateway"
+title = "Test ảnh tạo sinh trên Postman"
 date = 2025
 weight = 6
 chapter = false
